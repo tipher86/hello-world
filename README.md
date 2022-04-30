@@ -1,8 +1,8 @@
-#h1 Thisis my trying for the first time to use markdown syntax
+#h1 This is my trying for the first time to use markdown syntax
 I have never done this before but
-1. i am willing to try
-2. i hope it works
-3. i want to enjoy it.
+1. I am willing to try
+2. I hope it works
+3. I want to enjoy it.
 ---
 
 
